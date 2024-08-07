@@ -1,5 +1,11 @@
 # openapi-fetch
 
+## 0.10.6
+
+### Patch Changes
+
+- [#1809](https://github.com/openapi-ts/openapi-typescript/pull/1809) [`f21c05b`](https://github.com/openapi-ts/openapi-typescript/commit/f21c05b9afcc89ee6ef73edab4045620b410eb01) Thanks [@gzm0](https://github.com/gzm0)! - perf: remove unnecessary `async` keywords (for reduced code size)
+
 ## 0.10.5
 
 ### Patch Changes
